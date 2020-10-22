@@ -1,0 +1,6 @@
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuModel\bin\Debug\SudokuModel.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuModel\bin\Debug\SudokuModel.pdb
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuModel\obj\Debug\SudokuModel.csprojAssemblyReference.cache
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuModel\obj\Debug\SudokuModel.csproj.CoreCompileInputs.cache
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuModel\obj\Debug\SudokuModel.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuModel\obj\Debug\SudokuModel.pdb

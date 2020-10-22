@@ -1,0 +1,10 @@
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\bin\Debug\TestSudoku.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\bin\Debug\TestSudoku.pdb
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\bin\Debug\SudokuModel.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\bin\Debug\SudokuModel.pdb
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\obj\Debug\TestSudokuModel.csprojAssemblyReference.cache
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\obj\Debug\TestSudokuModel.csproj.CoreCompileInputs.cache
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\obj\Debug\TestSudokuModel.csproj.CopyComplete
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\obj\Debug\TestSudoku.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\TestSudoku\obj\Debug\TestSudoku.pdb

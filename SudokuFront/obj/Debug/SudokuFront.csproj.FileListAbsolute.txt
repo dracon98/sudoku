@@ -1,0 +1,11 @@
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\bin\Debug\Sudoku.exe.config
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\bin\Debug\Sudoku.exe
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\bin\Debug\Sudoku.pdb
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\bin\Debug\SudokuModel.dll
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\bin\Debug\SudokuModel.pdb
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\obj\Debug\SudokuModel.Game.resources
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\obj\Debug\SudokuFront.csproj.GenerateResource.cache
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\obj\Debug\SudokuFront.csproj.CoreCompileInputs.cache
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\obj\Debug\SudokuFront.csproj.CopyComplete
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\obj\Debug\Sudoku.exe
+C:\Users\Richardo Alvin\Downloads\sudoku_src\SudokuFront\obj\Debug\Sudoku.pdb
